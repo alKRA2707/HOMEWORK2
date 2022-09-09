@@ -1,0 +1,32 @@
+h1 {
+    background-color: aqua;
+    color: azure;
+    
+}
+h2 {
+    color: chocolate;
+}
+p.text {
+background-color: blueviolet;
+color: cadetblue;
+}
+#second {
+    background-color: aquamarine;
+    color: blanchedalmond;
+}
+#first {
+    background-color: chartreuse;
+    color: crimson;
+}
+.list1 {
+    background-color: darkgoldenrod;
+}
+.list2 {
+    background-color: darksalmon;
+    color: azure;
+}
+#text1 a {
+    color: darkgreen;
+    background-color: aliceblue;
+    wi
+}
